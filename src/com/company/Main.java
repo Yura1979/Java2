@@ -9,6 +9,8 @@ public class Main {
         System.out.println(Arrays.toString(data));
         sortArray(data);
         System.out.println(Arrays.toString(data));
+        System.out.println(Arrays.toString(data));
+
     }
     public static void conditionalSwap(int[] array, int first, int second) {
         if (array[first] > array[second]) {
